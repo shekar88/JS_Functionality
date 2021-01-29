@@ -1,0 +1,735 @@
+https://themefisher.com/download-bootstrap-free-responsive-website-templates-built-with-html5-css3/
+
+
+http://demo.themefisher.com/themefisher/bingo/index-slider.html
+
+http://demo.themefisher.com/demos/?theme=sulfur
+
+http://demo.themefisher.com/themefisher/fiction/template/blog.html
+
+http://demo.themefisher.com/megakit/index.html
+
+http://demo.themefisher.com/kross/index.html
+
+http://demo.themefisher.com/thomson/blog-grid.html
+
+
+SPA
+---
+http://demo.themefisher.com/demos/?theme=meghna
+
+https://colorlib.com/preview/#coaching
+
+
+images in select
+https://designwithpc.com/Plugins/ddSlick
+
+toggle switch code
+https://proto.io/freebies/onoff/
+
+side navigation:
+---------------
+https://codepen.io/hughbalboa/pen/zrgdKq
+https://codepen.io/davidsonbpe/pen/xNVBVv
+https://codepen.io/tio-jevero-the-styleful/pen/MdZQBo
+https://codepen.io/akolisz/pen/xraKGY
+https://codepen.io/daanvankerkom/pen/bRbKEL
+https://codepen.io/danchapuk/pen/maroJX
+https://codepen.io/rijdz/pen/zybbVK
+https://codepen.io/djdabe/pen/qXgJNV
+https://startbootstrap.com/previews/simple-sidebar/
+https://startbootstrap.com/templates/simple-sidebar/
+https://mdbootstrap.com/snippets/jquery/grzegorz-bujanski/2130086
+https://mdbootstrap.com/docs/jquery/navigation/sidenav/
+https://www.bestjquery.com/demo/jquery-side-panel-menu/
+
+https://codepen.io/tfitzp/pen/QpwVKv
+https://codepen.io/tonkec/pen/gryZmg
+https://codepen.io/Poti/pen/LoRNbm
+
+https://codepen.io/Crate/pen/xPKBEP
+https://codepen.io/pouretrebelle/pen/yvcBz
+https://codepen.io/jzilg/pen/zxepo
+https://codepen.io/FloydBee/pen/bQZbye
+
+https://codepen.io/azouaoui-med/pen/wpBadb
+https://codepen.io/dylancbailey/pen/xVoxKd
+https://codepen.io/HojjatK/pen/avJxYm?q=jquery-mobile
+https://codepen.io/yuyazz/pen/pvbEax
+https://codepen.io/ubeduris1/pen/eeVvWQ
+https://codepen.io/Insectscorch/pen/Ezhku
+https://codepen.io/Kristuff/pen/apEEYM
+
+
+https://codepen.io/zakkates/pen/bpMpez
+
+chatbot
+-------
+https://bootsnipp.com/snippets/Q0BMR
+
+shapes
+-------
+https://alistapart.com/article/css-shapes-101/
+
+focus on input fields
+---------------------
+https://css-tricks.com/float-labels-css/
+
+
+hover effects for buttons
+-------------------------
+https://ianlunn.github.io/Hover/
+
+
+hover effect
+-------------
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_sidenav_buttons
+https://tympanus.net/Development/IconHoverEffects/
+https://webdesign.tutsplus.com/tutorials/how-to-create-different-css-hover-effects-from-scratch--cms-34222
+https://uicookies.com/css-hover-effects/
+
+
+https://github.com/codrops/ThumbFullTransition
+https://github.com/codrops/AnimatedCustomCursor
+https://github.com/codrops/TypographyMotion
+https://github.com/codrops/DraggableMenu
+https://github.com/codrops/AnimateSVGTextPath
+https://github.com/codrops/ScrollLoopMenu
+https://github.com/codrops/Slicebox
+https://github.com/codrops/CrossroadsSlideshow
+https://github.com/codrops/GooeyTextHoverEffect
+
+
+
+https://tympanus.net/Development/LineMenuStyles/
+https://tympanus.net/Development/HoverEffectIdeas/
+https://tympanus.net/Tutorials/CaptionHoverEffects/
+https://tympanus.net/Tutorials/ShapeHoverEffectSVG/
+
+
+https://www.mockplus.com/blog/post/card-ui-design
+https://dribbble.com/tags/ui_blocks
+https://dribbble.com/tags/block
+https://dribbble.com/tags/
+https://dribbble.com/shots/3675349-Lix-Logo-redesign
+
+https://www.hongkiat.com/blog/css3-border-shape/
+https://webplatform.github.io/docs/css/properties/border-corner-shape/
+
+hover image effects
+---------------------
+
+https://cssauthor.com/jquery-css3-hover-effects/
+
+
+http://tympanus.net/codrops/2012/06/18/3d-thumbnail-hover-effects/
+
+https://www.queness.com/post/14450/display-images-with-shape-masking-and-nifty-zoom-effect
+
+https://codepen.io/davidleininger/pen/FuitG
+
+http://tympanus.net/codrops/2011/04/22/animated-skills-diagram/
+
+https://www.queness.com/post/16216/create-different-styles-of-hover-effects-with-css3-only
+
+
+slider
+------
+https://themeisle.com/plugins/nivo-slider/
+https://docs.themeisle.com/article/487-nivo-slider-settings
+https://stackoverflow.com/questions/20007610/bootstrap-carousel-multiple-frames-at-once
+https://codepen.io/ramsh/pen/xxbaRdQ
+http://sachinchoolur.github.io/lightslider/
+https://codepen.io/bilal380/pen/wvBrweM
+https://codepen.io/glebkema/pen/JEVgEy
+https://codepen.io/glebkema/pen/GqbWYd
+https://codepen.io/pletron/pen/GZzZGK
+https://codepen.io/SitePoint/pen/KQzPvK
+https://codepen.io/desandro/pen/RNByrj
+https://codepen.io/desandro/pen/gbjzre
+https://codepen.io/desandro/pen/jEpxqJ
+https://codepen.io/michalwyrwa/pen/BrwKKN
+https://codepen.io/glebkema/pen/egaJBZ
+https://codepen.io/niteshgourofficial/pen/KeyEJv
+
+Slider with Text animations
+---------------------------
+https://codepen.io/aliciona/pen/oRRmPB
+https://codepen.io/divinector/pen/PgyyLv
+https://codepen.io/mrspok407/pen/YWLqVo/
+https://codepen.io/alewinski/pen/grqgqx
+https://codepen.io/obakriad/pen/VdGjMv
+https://codepen.io/ettrics/pen/WvoRQo/
+
+https://codepen.io/rezakhmf/pen/yfGLx
+https://codepen.io/darksquark/pen/xwGxQv
+https://codepen.io/PSBlakemore/pen/avzvgO
+
+https://codepen.io/machuenca/pen/MYNgpJ
+
+vertical Scroll bar
+-------------------
+https://codepen.io/paulobrien/pen/JWdoXm
+https://stackoverflow.com/questions/62246033/vertical-scroll-indicator
+https://www.jqueryscript.net/other/scroll-progress-indicator-ws-scroLi.html
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_indicator
+
+vertical tabs
+--------------
+https://codepen.io/akhilmekkatt/pen/YGqadp
+
+https://codepen.io/JacobLett/pen/XopYBo
+
+https://codepen.io/dferenc/pen/gobBdq
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_vertical_tabs
+
+Owl Carousel
+-------------
+https://bbbootstrap.com/snippets/basic-carousel-slider-owl-carousel-19760944
+
+https://codepen.io/blooapple/pen/yVOrEX
+
+
+covnert ttf to woff
+--------------------
+https://www.font-converter.net/en/download/f0c66e3722aa7fb1b78d97a8c1da76b0
+
+onclick events
+--------------
+https://isotope.metafizzy.co/methods.html
+
+telugu typing
+-------------
+https://typing.11zon.com/en/te/english-to-telugu-typing-online.php
+
+SPA
+----
+https://codepen.io/hejx/pen/eJKwPm
+
+https://docs.madrasthemes.com/front-gutenberg-blocks/topics/hero-blocks/hero-carousel/hero-carousel-3/
+
+dropdown with change icon hover
+-------------------------------
+https://stackoverflow.com/questions/45059164/changing-content-of-dropdown-button-when-hovering-over-dropdown-elements#:~:text=1%20Answer&text=You%20need%20to%20change%20the,See%20updated%20snippet.
+https://kybarg.github.io/bootstrap-dropdown-hover/
+
+Maps And Charts
+---------------
+https://www.amcharts.com/demos/#maps
+
+https://www.fusioncharts.com/charts/column-bar-charts/
+https://www.fusioncharts.com/dev/getting-started/plain-javascript/your-first-chart-using-plain-javascript
+https://apexcharts.com/javascript-chart-demos/column-charts/
+
+maps
+-----
+https://snazzymaps.com/explore
+
+Effects
+---------
+https://www.jqueryscript.net/animation/particle-system-flying-circles.html
+https://www.google.com/search?ei=syxzX6PxFtSamgetnLfABQ&q=jquery+force+firld+particals&oq=jquery+force+firld+particals&gs_lcp=CgZwc3ktYWIQAzIHCCEQChCgATIHCCEQChCgATIHCCEQChCgAToECAAQRzoECCEQFToCCAA6BggAEBYQHjoICAAQFhAKEB46BQgAEJECOgUIABCxAzoICAAQsQMQkQI6BggAEA0QHjoKCAAQCBANEAoQHjoGCCEQChAVUJIeWNSLAWDajAFoBXACeACAAesCiAHaKpIBCDAuMzYuMC4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwjjltDmso7sAhVUjeYKHS3ODVgQ4dUDCA0&uact=5
+
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness
+
+https://www.google.com/search?q=brightness+html&oq=brightness+html&aqs=chrome..69i57j0l7.12144j1j7&sourceid=chrome&ie=UTF-8
+
+
+https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=carousel-events
+
+
+https://www.w3schools.com/bootstrap4/bootstrap_ref_js_carousel.asp
+https://www.google.com/search?q=bootstrap+4+carousel+from+event&oq=bootstrap+4+carousel+from+event&aqs=chrome..69i57j0l3.6064j0j7&sourceid=chrome&ie=UTF-8
+
+
+css effects before and after filter
+-----------------------------------
+
+https://www.google.com/search?q=how+to+apply+grayscale+in+for+backgruond+image+in+css&oq=how+to+apply+grayscale+in+for+backgruond+image+in+css&aqs=chrome..69i57j33.16720j0j7&sourceid=chrome&ie=UTF-8
+
+https://css-tricks.com/apply-a-filter-to-a-background-image/
+
+https://css-tricks.com/almanac/properties/f/filter/
+
+https://www.google.com/search?ei=Anp0X5rOMe7fz7sPx8if-AQ&q=gaussian+blur+css&oq=gaussian+blur+css&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOgQIABBDUJYXWIMdYK0iaABwAngAgAFkiAH0ApIBAzMuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwia1_XV8JDsAhXu73MBHUfkB08Q4dUDCA0&uact=5
+
+gaussian blur css
+
+
+
+MDB Forms
+----------
+https://mdbootstrap.com/education/bootstrap/
+https://mdbootstrap.com/docs/jquery/forms/basic/
+
+ruca reference Site
+--------------------
+https://selvafoods.in/spice-powders.html
+
+
+photoshop online
+----------------
+https://www.photopea.com/
+
+
+Form effects
+------------
+https://codepen.io/ainalem/pen/EQXjOR
+
+button effects
+---------------
+
+https://codepen.io/andrewmillen/pen/MoKLob
+
+jquery modal
+------------
+https://jquerymodal.com/
+
+scroll bar
+-----------
+https://idiotwu.github.io/smooth-scrollbar/
+
+input date format change
+------------------------
+http://jsfiddle.net/g7mvaosL/
+
+https://www.emailonacid.com/blog/article/email-development/12_things_you_must_know_when_developing_for_gmail_and_gmail_mobile_apps-2/
+
+
+polygon/clip path
+-----------------
+https://bennettfeely.com/clippy/
+https://www.cssportal.com/css-clip-path-generator/
+
+https://stripo.email/en/demo/?template=114676&project=92465&guid=4efc1c93-15e9-4482-aeb8-5ba12ce712f7
+
+https://stripo.email/templates/internal-email-template-meet-the-new-hire-for-human-resources-industry/
+
+https://stripo.email/templates/internal-email-template-reminder-of-a-colleagues-birthday-for-human-resources-industry/
+
+For Reports Table
+https://www.zohowebstatic.com/sites/default/files/u1591/earlybirdreport.png
+
+For Data Tables
+---------------
+https://datatables.net/
+
+change the position of the button in datatables
+------------------------------------------------
+https://blog.quickadminpanel.com/how-to-customize-datatables-6-most-requested-tips/
+
+Chatbot Core code
+-----------------
+https://codepen.io/bharatrpatil/pen/owNvoL/
+
+https://codepen.io/pruthvireddy51/pen/NmZEaw
+
+https://codepen.io/drumilpatel/pen/aEbNMK
+
+https://codepen.io/Victoro08/pen/arYJPO
+
+https://codepen.io/tobirick/pen/JyBgqV
+
+https://codepen.io/adamcjoiner/pen/ggxdJK
+
+
+Automatic chatbots
+------------------
+https://www.salesforce.com/in/form/sem/customer-service-software/?d=7010M000002NVxoQAG&DCMP=KNC-Google&Brand=no&ef_id=EAIaIQobChMIgqybyfip7gIVjAsrCh0TxQTgEAMYASAAEgICp_D_BwE:G:s&s_kwcid=AL!4720!3!408380328843!b!!g!!%2Bchat%20%2Bbots&gclid=EAIaIQobChMIgqybyfip7gIVjAsrCh0TxQTgEAMYASAAEgICp_D_BwE
+
+For Login Pages
+---------------
+https://file.mockplus.com/image/2019/05/5f9d4efd-fdcd-4104-8376-7f715b0b2b9c.gif
+
+https://codepen.io/yousefsami/pen/VmaxYG
+
+WireFrame in localhost
+----------------------
+http://192.168.29.70/drawio/
+
+
+https://freefrontend.com/css-speech-bubbles/
+https://codepen.io/RajRajeshDn/pen/oZdRJw
+https://codingislove.com/css-speech-bubbles/
+
+
+jquery functions link
+----------------------
+https://www.codegrepper.com/code-examples/elixir/click+button+scroll+page+jquery
+
+
+Date Previous and next Day
+--------------------------
+https://therichpost.com/datepicker-ui-next-previous-today-date-custom-button/
+
+http://jsfiddle.net/TV57Q/
+
+
+datepicker in javascript
+------------------------
+https://demo.mobiscroll.com/javascript/calendar/mobile-desktop-usage#
+
+
+storage test for cup
+--------------------
+https://osdn.net/projects/crystaldiskmark/downloads/71859/CrystalDiskMark7_0_0h.exe/
+
+
+
+download sites
+--------------
+https://github.com/CreativeIT/material-angular-dashboard
+
+https://themes.getbootstrap.com/preview/?theme_id=1696
+
+
+download templates
+------------------
+https://www.google.com/search?q=winhttrack&oq=winht&aqs=chrome.0.0i457j69i57j0l6.4215j0j7&sourceid=chrome&ie=UTF-8
+http://www.httrack.com/page/2/en/index.html
+
+
+templates
+---------
+https://gogo-react.coloredstrategies.com/app/dashboards/default
+Chroma template
+https://www.bootstrapdash.com/demo/chroma/index.html
+
+https://codedthemes.com/demos/admin-templates/gradient-able/dark-light/
+
+https://codervent.com/dashtreme/demo/transparent-admin/vertical-layout/index.html
+
+http://radixtouch.in/templates/admin/aegis/source/light/progress.html
+
+http://gridcreator.com/reactive/tables-editable-rows.html
+
+https://hencework.com/theme/mintos/background.html
+
+http://musa.beewebsystems.com/invoice.html
+
+icons
+-------
+https://fontisto.com/examples
+
+
+entities
+--------
+https://utf8-icons.com/tagbanwa-letter-sa-6000
+
+hamburgers different styles
+---------------------------
+https://jonsuh.com/hamburgers/
+
+side menu styles
+----------------
+https://codemyui.com/tag/hamburger-menu/
+
+https://premium.wpmudev.org/blog/burger-menu-animations/
+https://www.hongkiat.com/blog/hamburger-menu-animations/
+
+https://codepen.io/aloosle/pen/eaVLZx
+
+https://codepen.io/mblode/pen/evjfn
+https://codepen.io/rebelchris/pen/zYvNWNG
+https://codepen.io/kriskuchinka/pen/PqMejr
+https://codepen.io/azouaoui-med/pen/wpBadb?css-preprocessor=less
+
+https://freefrontend.com/css-fullscreen-menus/
+
+
+https://freefrontend.com/css-menu/
+
+show/hide using jquery
+----------------------
+https://codepen.io/bradfordbradford/pen/NNBGrQ
+
+Sorting Divs
+------------
+https://codepen.io/SitePoint/pen/jyJwXO
+
+Ruca dot Store Drive for images
+-------------------------------
+https://drive.google.com/drive/folders/1fBQwfJ8CF51bxfWxrrFZ7m8SjGsqvILh
+
+Ruca dot Mark images Drive
+---------------------------
+https://drive.google.com/drive/folders/1p7bR9skC0-sRJ1deIqUp8trL5FjsisZI
+
+
+container quries
+revan technic
+
+Step order tracking
+-------------------
+https://codepen.io/NaveenPantra/pen/gOONZXo
+
+https://codepen.io/luisar/pen/JjoOZav
+
+https://codepen.io/SaiRajitha/pen/MmqLjd
+
+Slider
+------
+https://azmind.com/bootstrap-carousel-multiple-items/
+https://codepen.io/Chris2733/pen/XWWEjJN
+https://codepen.io/AsfanShaikh/pen/oNvypEN
+https://codepen.io/JannaChan/pen/XybNpb
+https://codepen.io/StephenFlannery/pen/pbzOgg
+https://codepen.io/antishock/pen/JaagGz
+https://codepen.io/mjtweaver/embed/pEkYgQ?default-tab=&theme-id=
+https://codepen.io/chaukar/pen/mdyZjoL
+
+
+https://codepen.io/emrankhan016/pen/vdNzXm
+https://codepen.io/y_s_f/pen/KVZVEJ
+https://www.codeply.com/go/6yw3gQCHd6/bootstrap-4-carousel-with-progress-bar
+https://www.codeply.com/go/EpccN4Pior/bootstrap-carousel-with-progress-bar
+https://jsfiddle.net/kd6rg5Ls/
+https://codepen.io/st-iv/pen/KGKgmv
+https://medium.com/@mjtweaver/building-a-simple-progress-bar-for-slick-slider-d356c8441e9a
+https://www.tutorialfor.com/questions-141855.htm
+
+
+https://smartslider3.com/blog/homepage-slider-examples/
+https://www.templatemonster.com/blog/website-templates-slider/
+
+step slider
+-----------
+https://codepen.io/SeTzener/pen/ZXEwYy
+
+https://codepen.io/nubtehy/pen/WyXveP
+https://codepen.io/JiiB/pen/bWyagM
+
+https://codepen.io/nirajtech/pen/rmagaL
+
+
+https://khaledkzy.github.io/pixel-vh-vw-converter/
+
+https://codepen.io/zyber/pen/NZrzGa
+
+for Images
+--------------
+
+https://unsplash.com/s/photos/glance
+
+https://www.gettyimages.in/photos/glance?phrase=glance&sort=mostpopular
+
+
+IP Address formatted
+--------------------
+https://codepen.io/hoshmand1/pen/yxrNGp?editors=1010
+
+
+
+clients logo slider
+-------------------
+https://codepen.io/amarachukwu/pen/PoYdQEK
+https://codepen.io/divinector/pen/MRxMMy
+https://codepen.io/Papawebdesigner-2019/pen/WVNojy
+
+https://codepen.io/precyx/pen/zafbh
+
+https://codepen.io/onigetoc/pen/veWNbP
+
+Validation of input
+--------------------
+https://jsfiddle.net/emkey08/tvx5e7q3
+
+
+border only text
+-----------------
+https://css-tricks.com/adding-stroke-to-web-text/
+
+Multi selection
+----------------
+https://demos.telerik.com/kendo-ui/multiselect/index?_ga=2.89391451.1385477831.1608363848-172349202.1608363848
+https://www.jqueryscript.net/form/jQuery-Multiple-Select-Plugin-For-Bootstrap-Bootstrap-Multiselect.html
+https://www.jqueryscript.net/demo/jQuery-Multiple-Select-Plugin-For-Bootstrap-Bootstrap-Multiselect/
+
+http://multiple-select.wenzhixin.net.cn/docs/en/download.html
+
+https://github.com/nobleclem/jQuery-MultiSelect
+https://springstubbe.us/projects/jquery-multiselect/
+
+
+
+http://loudev.com/
+
+Product list 
+-------------
+https://codepen.io/sharomet/pen/JMqpdK
+
+onclick slider 
+--------------
+https://codepen.io/j_holtslander/pen/OVrPgo
+
+https://codepen.io/Tak/pen/eNdQMP
+
+https://bootsnipp.com/snippets/X2O4X
+
+https://bootsnipp.com/snippets/R5Ka4
+
+Product zoom in view
+---------------------
+https://codepen.io/andreaswik/pen/QzLYeV
+
+https://codepen.io/sifulislam/pen/dWoRZB
+
+
+https://www.gpkumar.com/category/jquery/
+
+https://bashooka.com/coding/codepen-demos-for-ecommerce-website/
+
+Haml (HTML Abstraction Markup Language)
+--------------------------------------
+https://haml.info/docs/yardoc/file.REFERENCE.html
+
+mobile validations
+---------------------
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<input type="text" class="numbers" name="field_name" maxlenght="10" />
+
+	$("input.numbers").keypress(function(event) {
+  return /\d/.test(String.fromCharCode(event.keyCode));
+});
+
+for image upload throw js
+-------------------------
+http://jsfiddle.net/KyleMit/d3H9f/
+
+
+upload pdf/doc/docx files only
+------------------------------
+https://stackoverflow.com/questions/17992586/allow-only-pdf-doc-docx-format-for-file-upload
+
+https://stackoverflow.com/questions/17784037/how-to-display-pdf-file-in-html
+
+data-filter
+------------
+https://bootsnipp.com/snippets/r1Z7d	
+
+Add Data Dynamically using JQuery
+---------------------------------
+https://mkyong.com/jquery/how-to-add-remove-textbox-dynamically-with-jquery/
+
+css gradient generator
+----------------------
+https://cssgradient.io/
+
+filter for shopping
+-------------------
+https://codepen.io/ericwinton/pen/jqKyyq
+
+https://codepen.io/csdev/pen/jWqGJV
+
+https://codepen.io/xavigh/pen/BerGQa
+
+https://codepen.io/ssteigen/pen/xEGELz
+
+https://codepen.io/davida26-io/pen/ZYqReQ
+
+https://codepen.io/ethanthompson/pen/BReJmx
+
+https://codepen.io/Julix/pen/LeXNWw
+
+No of divs show as per select box using JQuery
+-----------------------------------------------
+http://jsfiddle.net/skip405/Hk87V/8/
+
+Modal SignIn
+--------------
+https://codepen.io/emimnemonic/pen/XXveQP
+
+
+Range bubbles
+-------------
+https://css-tricks.com/value-bubbles-for-range-inputs/
+
+Accordion
+---------
+https://codepen.io/ivan8i/pen/MYNOoX
+https://codepen.io/ivan8i/full/MYNOoX
+
+https://codepen.io/djordan/pen/CoFfh
+
+
+https://codepen.io/raubaca/pen/PZzpVe
+
+Mega Menu
+-----------
+https://preview.codecanyon.net/item/web-slide-responsive-mega-menu-for-bootstrap-3/full_screen_preview/11068006?aff=designerslib
+
+custom select box
+-----------------
+https://andrejgajdos.com/custom-select-dropdown/
+
+filter list/search bar
+------------------------
+https://www.w3schools.com/howto/howto_js_filter_lists.asp
+
+
+Media Query with JQuery
+-----------------------
+https://stackoverflow.com/questions/19291873/window-width-not-the-same-as-media-query
+
+https://dzone.com/articles/checking-media-queries-jquery
+
+
+Select box plugins/
+-------------------
+https://www.sitepoint.com/13-jquery-selectboxdrop-down-plugins/
+
+
+Drive links for images
+----------------------
+spice powders ruca.store
+-------------
+https://drive.google.com/drive/folders/1DBW4T5kStsGzlN9cebOQNaVCmzhJDSBX
+https://drive.google.com/drive/folders/1fBQwfJ8CF51bxfWxrrFZ7m8SjGsqvILh
+
+packshots
+---------
+https://drive.google.com/drive/folders/1CGcWSZm7gT9uM2QR0CJZVZ_xFYTDS4W2
+
+https://drive.google.com/drive/folders/1XlgE9R1xLKPohiaPSkZHIa0P53JK59vY
+
+
+ruca.market
+------------
+https://drive.google.com/drive/folders/1p7bR9skC0-sRJ1deIqUp8trL5FjsisZI
+ruca
+
+
+
+Compnay websites
+-----------------
+https://ruca.store/
+http://ruca.market/
+https://demo.quicxly.com/
+https://quicxly.com/
+https://www.ifutureglobistic.com/
+https://chailicious.in/
+
+https://www.eduspurt.com/
+http://grabautoparts.com/
+
+https://blog.ifutureglobistic.com/
+https://jobs.ifutureglobistic.com/
+
+https://marvelapp.com/prototype/6c67i4c/screen/74341076
+
+
+ Dear CMD,
+
+ Please find the Attachment,
+ IGL Web Layout Update one.
+
+
+ Thanks & Regards,
+ Chandra Shekar,
+ UI Developer
+
+
+
+https://asquarepromotions.in/
